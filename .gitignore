@@ -1,0 +1,6 @@
+.DS_Store
+.vercel/
+.openai/
+preview/
+.env*
+node_modules/
